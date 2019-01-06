@@ -33,7 +33,7 @@ The sections are chosen based on my interests and my common sense.
 | --- | --- | --- | --- |
 |  Empty at the moment  |  Nothing to say  |  No Type | The link is broken  |
 
-## <a name="feedback"></a>5. Contact and Questions
+## <a name="contact"></a>5. Contact and Questions
 If you have any questions regarding my work or you just want to say hi and have a nice chat, please don't hesitate to email me at dumitrescu.dragos.lucian87@gmail.com and I will try to respond ASAP (I will add other contact links in the future :) ).
 
 **Feedback Note:** If you encountered any mistakes or difficulties navigating through this document, please don't hesitate to let me know about it (It would be really helpful).
